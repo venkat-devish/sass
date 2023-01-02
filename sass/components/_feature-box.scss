@@ -4,7 +4,7 @@
   font-size: 1.5rem;
   padding: 2.5rem;
   border-radius: 3px;
-  box-shadow: 0 1.5rem 4rem rgba($--color-black, 0.15);
+  box-shadow: $--shadow-1;
   transition: transform 0.3s;
 
   &__icon {
